@@ -1,5 +1,5 @@
 # ESP-32-Ubidots
-Install The libraries and rune this code
+Install The libraries and run this code to connect your ESP32 to Ubidots and send data by using MQTT protocol
 ```C++
 /******************************************
  *
